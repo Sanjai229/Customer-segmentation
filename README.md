@@ -96,3 +96,25 @@ Key Features Used:
 * Identifies churn-risk segments
 
 * Enables personalized marketing strategies
+
+### Customer Lifetime Value (CLV)
+
+This project also estimates Customer Lifetime Value to quantify the long-term value of customers.
+
+### Methodology:
+
+* Calculated Average Order Value
+
+* Used Recency as a proxy for customer lifespan
+
+* Computed CLV using transactional behavior
+
+* Segmented customers into Low, Medium, and High value tiers
+
+### Outcome:
+
+* Enabled prioritization of high-value customers
+
+* Identified churn-risk segments
+
+* Supported data-driven retention strategies
